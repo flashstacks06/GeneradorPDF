@@ -1,6 +1,6 @@
 from tkinter import *
  
- 
+#Hola
 top = Tk()  
 top.geometry("450x300") 
    
